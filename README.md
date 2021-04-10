@@ -8,6 +8,6 @@ NOTE: In this program, I'm trying to extrax the source code for the website : "h
 After getting the iiitdm txt file, start all apache hadoop daemon processes and move this iiitdm file from local disk to HDFS system.
 Run the WordCount program on the text file iiitdm, by following the below given command:
 
->> hadoop jar hadoop-mapreduce-examples-3.1.2.jar wordcount <input_directory> <output_directory>
+>> hadoop jar hadoop-mapreduce-examples-<version>.jar wordcount <input_directory> <output_directory>
 
 The above commands runs mapreduce programs on the text file present in some of the <input_directory> and stores the final output in <output_directory>
