@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>     <html class="ie8 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KURNOOL</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="">
+    <link rel="icon" href="https://iiitk.ac.in/images/logo/logo_white.png" sizes="16x16" type="image/png">
+    <!-- TODO: Add html5shiv -->
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/normalize.css">
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/main.css">
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/home.css">
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/owl.carousel.css">
+    <link rel="stylesheet" href="https://iiitk.ac.in/css/owl.theme.css">
+    <style>
+table.carousel-btn td {
+    width: auto;
+}
+.college-logo{
+background: #000;
+}
+    </style>
+
+</head>
+<body>
+
+<div class="page-wrapper">
+<style>
+.mail_back { background-color:#31398a !important; }
+.mail_back a { color:#fff !important; }
+</style>
+        <header>
+             <nav class="normal-nav container">
+    <a href="javascript:void(0)" class="navbar-toggle"><i class="fa fa-bars"></i></a>
+    <div class="college-name-and-logo">
+     <!--   <div class="college-logo">
+            <a href="https://iiitk.ac.in/home">
+                <img src="images/logo/logo_white.png" alt="IIIT Logo" />
+            </a>
+        </div>   -->
+        <p class="col-name">Indian Institute of Information Technology, Design and Manufacturing, Kurnool</p>
+        <div class="college-logo2">
+            <img src="https://iiitk.ac.in/images/logo/iiitk1.png" alt="IIIT Logo">
+        </div>
+    </div>
+    <div class="navbar-container">
+        <ul class="navbar">
+            <li>
+                <a href="https://iiitk.ac.in"><i class="fa fa-home"></i></a>
+            </li>
+            						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">The Institute</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                <a href="http://iiitk.ac.in/About-IIITDM-Kurnool/page">
+                            About</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Director</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                            <li>
+                                                <a href="http://iiitk.ac.in/Director&#039;s-Profile/page">
+                            Director’s Profile</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Administration/Director’s-Message/page">
+                            Director’s Message</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Administration</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                <a href="http://iiitk.ac.in/Visitor/page">
+                            Visitor</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="https://iiitcouncil.com/">
+                            IIIT Council</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Act-and-Statutes/page">
+                            Act and Statutes</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Administration/Chairperson&#039;s-Profile/page">
+                            Chairperson</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Board-of-Governors/page">
+                            Board of Governors</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Finance-Committee/page">
+                            Finance Committee</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Buildings-and-Works-Committee/page">
+                            Buildings and Works Committee</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Senate/page">
+                            Senate</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/in-charges">
+                            Administrative Roles</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Non-Teaching-Staff/page">
+                            Non-Teaching Staff</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Academics</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                    <a href="javascript:void(0)">Departments <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                            <a href="http://iiitk.ac.in/Computer-Science-and-Engineering/page">
+                            Computer Science and Engineering</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Academics/Electronics-And-Communication-Engineering/page">
+                            Electronics and Communication Engineering</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Academics/Mechanical-Engineering/page">
+                            Mechanical Engineering</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Department-of-Sciences/page">
+                            Department of Sciences</a>
+                            </li>
+                                                                                    </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                <li>
+                                                    <a href="javascript:void(0)">Admissions <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                            <a href="http://iiitk.ac.in/Postgraduate/page">
+                            Postgraduate</a>
+                            </li>
+                                                                                                                                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Overview/page">
+                            Overview</a>
+                            </li>
+                                                                                                                                                                        <li>
+                            <a href="http://iiitk.ac.in/Ph.D.-Admission/page">
+                            Doctoral</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Undergraduate/page">
+                            Undergraduate</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                    <a href="javascript:void(0)">Academic Calendar <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                            <a href="http://iiitk.ac.in/images/pages/1610451321.pdf">
+                            I B.Tech 2020-21 Academic Calendar</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1610451720.pdf">
+                            B.Tech Academic Calendar</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1603388774.pdf">
+                            M.Tech Academic Calendar</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/images/pages/1610170416.pdf">
+                            Holiday List</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Time-Table-Dec.2020/page">
+                            Time Table</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/images/pages/1602482852.pdf">
+                            B. Tech. Fee Structure (2020-2021)</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                    <a href="javascript:void(0)">Gold Medal Recipient <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                    <li>
+                            <a href="">
+                            B.Tech. 2016-20 Batch</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/Gold-Medal-Recipient/page">
+                            B.Tech. 2015-19 Batch</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                    <a href="javascript:void(0)">Circulars <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                    <li>
+                            <a href="http://iiitk.ac.in/images/pages/1570190332.pdf">
+                            Medium of Instruction</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1575692262.pdf">
+                            Provisional Certificate</a>
+                            </li>
+                                                                                                                                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1568633765.pdf">
+                            CGPA into Percentage</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                    <a href="javascript:void(0)">Alumni <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                            <a href="http://iiitk.ac.in/Alumni/page">
+                            2019 Passouts</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                    <a href="javascript:void(0)">Application Forms for Different Purposes <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                            <a href="http://www.iiitk.ac.in/images/pages/1564825812.pdf">
+                            Education Verification Form</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1564719959.pdf">
+                            Change of Branch</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="http://iiitk.ac.in/images/pages/1567506797.pdf">
+                            Form for Make-up Examination</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="">
+                            Students</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                            
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Activities</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                            <li>
+                                                <a href="http://iiitk.ac.in/Workshops/page">
+                            Workshops</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                    <a href="javascript:void(0)">Internship and Placement Cell <i class="fa fa-angle-down"></i></a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                            <li>
+                            <a href="https://iiitk.ac.in/Internship-and-Placement-Cell/page">
+                            Placement Contact Details</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="https://iiitk.ac.in/2019-20-Placement-Statistics/page">
+                            2019-20 Placement Statistics</a>
+                            </li>
+                                                                                                                <li>
+                            <a href="https://iiitk.ac.in/2018-19-Placement-Statistics/page">
+                            2018-19 Placement Statistics</a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                    
+                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Activities/Institute-Newsletter/page">
+                            Institute Newsletter</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Activities/Social-Service-Group/page">
+                            Social Service Group</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Cultural-Events/page">
+                            Cultural Events</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Activities/Sports-Activities/page">
+                            Sports Activities</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Research</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                                                <a href="https://iiitk.ac.in/Research-Projects/page">
+                            Research Projects</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="https://iiitk.ac.in/Research-Collaborations/page">
+                            Research Collaborations</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Research-Publications/page">
+                            Research Publications</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="http://iiitk.ac.in/Research-Scholars-and-Staffs/page">
+                            Research Scholars/Staffs</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">Other Links</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                            <li>
+                                                <a href="https://mhrd.gov.in">
+                            Ministry of Education</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/The-Institute/Press-Releases/page">
+                            Press Releases</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                        <li>
+                                                <a href="https://josaa.nic.in">
+                            JOSAA</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Depiction-of-Our-Logo/page">
+                            Depiction of Our Logo</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="http://172.16.16.14:8081/">
+                            Central Library</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                <li>
+                                                <a href="http://iiitk.ac.in/gallery">
+                            Gallery</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                        <li>
+                                                <a href="http://nad.gov.in/">
+                            National Academic Depository (NAD)</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Career-Opportunities/page">
+                            Career Opportunities</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Students-Achievements/page">
+                            Achievements</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                <li>
+                                                <a href="https://iiitdmkl.codetantra.com/">
+                            Online class - Codetantra</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="http://iiitk.eabyas.in/login/index.php">
+                            Moodle - eabyas</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                        <li>
+                                                <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm?corpID=927770">
+                            SB Collect</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Anti-Ragging/page">
+                            Anti Ragging</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/ICC/page">
+                            ICC</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                <li>
+                                                <a href="http://iiitk.ac.in/Central-Purchase-Section-Administration/page">
+                            Central Purchase Section</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="http://iiitk.ac.in/RTI/page">RTI</a>
+                                     
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="javascript:void(0)">VLA</a>
+                                    
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                <a href="http://iiitt.ac.in/vla">
+                            Virtual Learning Academy</a>
+                                                                        <ul class="super-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                            </li>
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                </ul>
+                			</li>
+						<li style='font-weight:bold'>
+                
+                                        <a href="http://iiitk.ac.in/Contact-Us/page">Contact Us</a>
+                                     
+                
+                <ul class="sub-navbar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                </ul>
+                			</li>
+			        <li class='mail_back'><a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&hd=iiitk.ac.in&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession" target='_blank'>I I I T K MAIL</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="social-media-buttons-container">
+    <ul class="social-media-buttons">
+        <li class="facebook" title="Official Facebook page of IIIT-K">
+            <a target="_blank"  href="https://www.facebook.com/Iiitdm-Kurnool-211133533006549/">
+                <i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li class="twitter" title="Official Twitter page of IIIT-K">
+            <a target="_blank" href="https://twitter.com/iiitdmkurnool">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        <li class="youtube" title="Official Youtube Channel of IIIT-K">
+            <a target="_blank" href="https://www.youtube.com/channel/UCXUm4xE1QB6jkBMRBnmtguw">
+                <i class="fa fa-youtube-play"></i>
+            </a>
+        </li>
+        <!-- <li class="google-plus" title="Official Google+ page of IIIT-K">
+            <a target="_blank" href="https://plus.google.com/+IIITHKurnool/posts">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        
+        <li class="linkedin" title="Official Linkedin Profile of IIIT-K" style="background-color: rgb(0,119,181)">
+            <a target="_blank" href="https://www.linkedin.com/company/iiit-Kurnool">
+                <i class="fa fa-linkedin-square"></i>
+            </a>
+        </li>
+        <li class="instagram" title="Official Instagram page of IIIT-K">
+            <a target="_blank" href="https://www.instagram.com/iiit.Kurnool/">
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li> -->
+    </ul>
+</div>
+</header><style>
+.list-item p { margin-top:0px; line-height:20px; font-weight:11px; text-align:justify; } 
+
+
+</style>
+<div id="carousel-container" class="container">
+                <div>
+                    <div id="carousel" class="owl-carousel">
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1609915089.png');">
+                            <div class="caption-text">
+                                <h2>SECOND CONVOCATION</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/view-gallery/37"  style="">IIITDM KURNOOL 2nd CONVOCATION <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1616844041.png');">
+                            <div class="caption-text">
+                                <h2>CICT-2021</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="https://www.cict2021.iiitk.ac.in/"  style="">CICT-2021 <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1603887662.png');">
+                            <div class="caption-text">
+                                <h2>MoU with Zero Code 2020</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/view-gallery/36"  style="">MoU with Zero Code 2020 <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1602744514.png');">
+                            <div class="caption-text">
+                                <h2>Jan Andolan for COVID-19</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/view-gallery/34"  style="">Jan Andolan for COVID-19 <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1602744423.png');">
+                            <div class="caption-text">
+                                <h2>Fit India Movement 2020</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/view-gallery/30"  style="">Gallery <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1583319824.JPG');">
+                            <div class="caption-text">
+                                <h2>Open Day Celebrations</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/view-gallery/19"  style="">Gallery <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1575622358.jpg');">
+                            <div class="caption-text">
+                                <h2>ATAL Academy Programme on IoT</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/AICTE-ATAL-Academy-Programme-on-Internet-of-Things/page"  style="">ATAL Academy Programme on IoT and Inauguration of IoT Laboratory <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1565082278.png');">
+                            <div class="caption-text">
+                                <h2>First Convocation</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/The-first-Occasions/page"  style="">First Convocation of IIITDM Kurnool <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1561442755.png');">
+                            <div class="caption-text">
+                                <h2>Chairman&#039;s Visit</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href="http://iiitk.ac.in/Chairman&#039;s-Visit/page"  style="">Prof. H A Ranganath, Honourable Chairman, IIITDM Kurnool visited the institute on March 25-26, 2019. <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1558068367.jpg');">
+                            <div class="caption-text">
+                                <h2>Ethnic Day</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href=""  style="">Ethnic Day <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1558068352.jpg');">
+                            <div class="caption-text">
+                                <h2>Sports</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href=""  style="">Sports <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                                <div class="carousel-frame" style="background-image: url('images/banners/1558012529.jpg');">
+                            <div class="caption-text">
+                                <h2>Master Plan</h2>
+                                <!-- <p class="lead">Application deadline for PGEE has been extended till midnight of 28th March 2019.<br>Date of Exam for PGEE - 28th Apr 2019 || <b><a href='https://ims.iiit.ac.in/admissions.php'>Admit cards for PGEE 2019 have been published</a></b></p> -->
+                                    <a tabindex="-1" class="btn" href=""  style="">Master Plan <i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div style="overflow:auto">
+                <table class="carousel-btn">
+                    <tbody>
+                        <tr>
+                                                                                                        <td class="active" data-position="0">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">SECOND CONVOCATION</a>
+                            </td>
+                                                                                                                            <td class="" data-position="1">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">CICT-2021</a>
+                            </td>
+                                                                                                                            <td class="" data-position="2">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">MoU with Zero Code 2020</a>
+                            </td>
+                                                                                                                            <td class="" data-position="3">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Jan Andolan for COVID-19</a>
+                            </td>
+                                                                                                                            <td class="" data-position="4">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Fit India Movement 2020</a>
+                            </td>
+                                                                                                                            <td class="" data-position="5">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Open Day Celebrations</a>
+                            </td>
+                                                                                                                            <td class="" data-position="6">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">ATAL Academy Programme on IoT</a>
+                            </td>
+                                                                                                                            <td class="" data-position="7">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">First Convocation</a>
+                            </td>
+                                                                                                                            <td class="" data-position="8">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Chairman&#039;s Visit</a>
+                            </td>
+                                                                                                                            <td class="" data-position="9">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Ethnic Day</a>
+                            </td>
+                                                                                                                            <td class="" data-position="10">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Sports</a>
+                            </td>
+                                                                                                                            <td class="" data-position="11">
+                                <i class="fa fa-angle-up"></i><br>
+                                <a href="#">Master Plan</a>
+                            </td>
+                                                                                                </tr>
+                        </tbody>
+                </table>
+                </div>
+            </div>
+
+<div class="container box">
+            <div class="row padded-cols text-center">
+                                <div class="col-4-12">
+                    <h2><i class="dull fa "></i> Mission</h2>
+                    <p style='font-style:italic; line-height:25px; color:#002c46;'>To become a center of excellence pioneering in education, research &amp; development, and leaders in design &amp; manufacturing.</p>
+                                    </div>
+                <div class="col-4-12">
+                    <h2><i class="dull fa "></i> Vision</h2>
+                    <p style='font-style:italic; line-height:25px; color:#002c46;'>To become a leading institute of higher learning in Information Technology enabled design &amp; manufacturing to create technologies and technologists befitting the industries globally.</p>
+                                    </div>
+                <div class="col-4-12">
+                    <h2><i class="dull fa "></i> Charter</h2>
+                    <p style='font-style:italic; line-height:25px; color:#002c46;'>To carry out advanced research and development activities in design and manufacturing technologies, both on its own and on sponsorship basis for the industry.</p>
+                                    </div>
+            <!-- </div> -->
+                                
+            </div>
+            <hr>
+            <div class="row padded-cols">
+                <div class="col-4-12">
+                   <div style="border:1px solid #ccc; min-height:450px;background-image: url('images/banners/div_back.png'); background-repeat:no-repeat; background-position:right top">
+                         <center><h2>Programmes / Admissions</h2></center>
+
+                        <ul class="item-list">
+                            <li class="list-item">
+                            <ul><li><p class="MsoNormal" style="text-align: left;"><font face="georgia"><span style="line-height: 107%;"><b style="background-color: rgb(255, 0, 51);"><font color="#ffffff" style=""><span style="font-size: 12pt; color: rgb(98, 112, 119); font-weight: 400; background-color: rgb(255, 255, 255); line-height: 17.12px;"><span style="font-weight: 700; background-color: rgb(255, 0, 51);"><font color="#ffffff">New</font></span> </span><span style="background-color: rgb(255, 255, 255); color: rgb(98, 112, 119);"><font size="3" style=""><a href="https://www.cict2021.iiitk.ac.in/" title="" target="_blank">5th
+Conference on Information and Communication Technology-2021 (CICT-2021).</a></font></span><br></font></b></span></font></p></li><li><p class="MsoNormal" style="text-align: left;"><font face="georgia"><span style="line-height: 107%;"><span style="background-color: rgb(255, 0, 51);"><span style="background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255); font-weight: bold; background-color: rgb(255, 0, 51); font-size: 16px;">New</span><b style="color: rgb(98, 112, 119);"> </b></span></span></span></font><font size="3" face="georgia" color="#000000"></font><font size="3" face="georgia" style="background-color: rgb(255, 255, 255);"><a href="https://iiitk.ac.in/images/pages/1617943799.pdf" title="" target="_blank">Two Weeks
+Online Development Programme on "<b>GLOBAL NAVIGATION SATELLITE SYSTEMS</b>"(10th
+- 21st May, 2021) <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">in association with
+E&ICT Academy, NIT Warangal, sponsored by Ministry of Electronics and
+Information Technology (MeitY), GoI.</span></a></font></p></li><li><p class="MsoNormal" style="text-align: left;"><span style="font-family: georgia; font-size: 12pt; line-height: 107%;"><b style="background-color: rgb(255, 0, 51);"><font color="#ffffff">New</font></b> </span><font size="3" style="font-family: georgia;"><a href="https://iiitk.ac.in/images/pages/1615307475.pdf" title="" target="_blank">Two
+Weeks Online Faculty Development Programme on <b>“Emerging Optimization Techniques for Engineering Applications”</b> in
+association with E&ICT Academy, NIT Warangal , sponsored by Ministry of
+Electronics and Information Technology (MeitY), GoI.</a></font><br></p></li><li><p class="MsoNormal" style="text-align: left;"><a href="https://iiitk.ac.in/images/pages/1617770376.pdf" title="" target="_blank" style="background-color: rgb(255, 255, 255); font-family: georgia; font-size: medium;"><span style="font-weight: 700;">Pariksha Pe Charcha-2021</span>, the unique interactive program of <span style="font-weight: 700;">Hon’ble Prime Minister,</span> <span style="font-weight: 700;">Shri Narendra Modi</span> with students, teachers and parents on <span style="font-weight: 700;">07<span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">th</span> April, 2021 at 7:00PM.</span></a><br></p></li><li><p class="MsoNormal" style="text-align: left;"><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1611377239.pdf" title="" target="_blank">Two-day Virtual
+workshop on “The Science Express”</a></font></p></li><li><p class="MsoNormal" style="text-align: left;"><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1611377222.pdf" title="" target="_blank">40-hour Online
+Faculty Development Programme on “NANOMATERIALS: EXPERIMENTAL DESIGN
+& THEORETICAL MODELING” sponsored by E&ICT Academy, NIT Warangal.</a></font></p></li><li><p class="MsoNormal" style="text-align: left;"><font face="georgia" size="3"></font><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1611375886.pdf" title="" target="_blank">40-hour Online
+Faculty Development Programme on “Understanding the nuances of Education and
+Academic Research” sponsored by E&ICT Academy, NIT Warangal.</a></font></p></li><li><p class="MsoNormal" style="text-align: left;"><span style="font-size: medium; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-align: justify; line-height: 107%; font-family: Georgia, serif;"><a href="http://iiitk.ac.in/images/pages/1610294462.pdf" title="" target="_blank">Seven
+Day Online Workshop o<span style="color: windowtext;">n </span></a></span><span style="font-size: medium; text-align: justify; line-height: 107%; font-family: Georgia, serif;"><span style="color: windowtext; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><a href="http://iiitk.ac.in/images/pages/1610294462.pdf" title="" target="_blank" style="">"Quantum Computing"<b> </b></a></span><span style="color: windowtext; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><a href="http://iiitk.ac.in/images/pages/1610294462.pdf" title="" target="_blank">sponsored by E&ICT Academy NIT Warangal.</a></span></span></p></li><li><p class="MsoNormal" style=""><b style=""><font size="3"><font face="georgia" style="" color="#000066"><a href="https://youtu.be/XAl8pR0kze4" title="" target="_blank" style="background-color: rgb(255, 255, 255);">IIITDM KURNOOL 2nd CONVOCATION</a></font><br></font></b></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609694799.pdf" title="" target="_blank">Webinar on <b>"Space Vehicle Design".</b></a></font></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609694227.pdf" title="" target="_blank">Webinar on "<b>Quantum Fyed</b>" Knowledge about Quantum World, Quantized.</a></font></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609738403.pdf" title="" target="_blank" style="">Quizzards of Math.</a></font><br></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font style="" face="georgia" size="3"><a href="http://iiitk.ac.in/Information-for-newly-admitted-students-B.Tech-2020/page" title="" target="_blank" style="">Information for newly admitted students - B.Tech 2020</a></font></p></li><li><font face="georgia" size="3"><span style="color: rgb(0, 0, 0);"><a href="http://iiitk.ac.in/UG-Admissions-2020/page" title="" target="_blank" style="">Details of the admission process for B.Tech. first semester 2020-21</a></span><br></font></li><li><font face="georgia" color="#000000" style="" size="3"><a href="http://iiitk.ac.in/images/pages/1602482852.pdf" title="" target="_blank" style="">B.Tech. Fee Structure (2020-21)</a></font></li><li><a href="http://iiitk.ac.in/images/pages/1605846544.pdf" title="" target="_blank" style="background-color: rgb(255, 255, 255); font-family: georgia; font-size: medium;">Workshop on a talk with industrial experts - "Connecting the dots with design and technology".</a><br></li><li><font face="georgia" size="4" color="#000000"><a href="http://iiitk.ac.in/images/pages/1605591578.pdf" title="" target="_blank">Webinar on "Bhaskara and Leelavati" by Prof. J. V. Narlikar and online painting exhibition by Mrs. Shalinee Kumari</a></font></li><li><font size="3" face="georgia" color="#000000"><a href="http://iiitk.ac.in/images/pages/1604549585.pdf" title="" target="_blank" style="">Students Achievements</a></font></li><li><font color="#000000"><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1602553562.pdf" title="" target="_blank" style="">Virtual Interaction with IIITDM Kurnool for QUALIFIED JEE MAIN 2020 CANDIDATES</a></font><br></font></li><li><font size="3" face="georgia" color="#000000"><a href="http://iiitk.ac.in/images/pages/1602492249.pdf" title="" target="_blank">Webinar on Nobel Prize in Physics 2020. Date: 17th October. </a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1602154374.pdf" title="" target="_blank">Online Art Workshop - Madhubani Art on 10th - 11th October 2020.</a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1601962541.pdf" title="" target="_blank">Quantum Computing Workshop on 31st October 2020</a>.</font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1600345073.pdf" title="" target="_blank">List of Provisionally Selected Candidates for Ph.D. Programme September 2020.</a></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1598613353.pdf" title="" target="_blank">Shortlisted Candidates for the Interviews of Ph.D. Programme.</a></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/Admission-to-Ph.D.-Programme-(Full-time)-commencing-on-Sep-2020-Semester/page" title="" target="_blank">Admission to Ph.D. Program (Full Time) commencing in September 2020.</a> <b><a href="http://iiitk.ac.in/images/pages/1597302149.pdf" title="" target="_blank">" Extension of the last date for application submission"</a></b></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/Admission-to-M.Tech.-Programme:-2020-21/page" title="" target="_blank">Admission to M.Tech. Programme : 2020 - 21</a></font></li><li><font size="3" face="georgia"><a href="http://iiitt.ac.in/vla" title="" target="_blank">Two-day Virtual Workshop on Develop, Deliver, and Assess Online Courses with MOODLE Learning Management System (18th - 19th May 2020).</a>  <b><a href="http://iiitk.ac.in/images/pages/1589460817.pdf" title="" target="_blank"> Brochure</a>.</b></font></li></ul><div><br></div>                            </li>
+                        </ul>
+                        <!-- <a href="https://news/">View all news <i class="fa fa-external-link"></i></a> -->
+                    </div>
+                    
+                    </div>
+                <!-- </div> -->
+                <div class="col-4-12">
+                    <div style="border:1px solid #ccc; min-height:450px;background-image: url('images/banners/div_back.png'); background-repeat:no-repeat; background-position:right top">
+                        <center><h2>News / Jobs</h2></center>
+                        <ul class="item-list">
+                            <li class="list-item">
+                            <ul><li><font face="georgia" size="3"><span style="font-weight: 700; font-size: 13px; background-color: rgb(255, 0, 51);"><font color="#ffffff"><span style="background-color: rgb(255, 255, 255); color: rgb(98, 112, 119);"><span style="color: rgb(34, 34, 34);"><font color="#ff00ff" size="3"><span style="color: rgb(255, 255, 255); background-color: rgb(255, 0, 51); font-size: 16px;">New</span> <a href="https://iiitk.ac.in/images/pages/1617769751.pdf" title="" target="_blank">National Online Webinar on Cyber Security & Youth.</a></font></span></span></font></span><br></font></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609694799.pdf" title="" target="_blank">Webinar on <span style="font-weight: 700;">"Space Vehicle Design".</span></a></font></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609694227.pdf" title="" target="_blank">Webinar on "<span style="font-weight: 700;">Quantum Fyed</span>" Knowledge about Quantum World, Quantized.</a></font></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1609738403.pdf" title="" target="_blank">Quizzards of Math.</a></font><br></p></li><li><p class="MsoNormal" style="color: rgb(34, 34, 34);"><font face="georgia" size="3"><a href="http://iiitk.ac.in/Information-for-newly-admitted-students-B.Tech-2020/page" title="" target="_blank">Information for newly admitted students - B.Tech 2020</a></font></p></li><li><font face="georgia" size="3">Faculty Recruitment-2021 </font><b style="font-family: georgia; font-size: medium;">"Online Portal</b><b style="color: rgb(0, 51, 102); font-family: georgia; font-size: medium;">"</b><br></li><li><a href="http://iiitk.ac.in/IIITDM-Kurnool-Picth-Video/page" title="" target="_blank" style="font-family: georgia; font-size: medium; background-color: rgb(255, 255, 255);">IIITDM Kurnool Pitch Video.</a></li></ul>                            </li>
+                        </ul>                      
+                        <!-- <a href="https://notices/">View all notices <i class="fa fa-external-link"></i></a> -->
+                    </div>
+                    
+                </div>
+                
+                <div class="col-4-12">
+                   <div style="border:1px solid #ccc; min-height:450px;background-image: url('images/banners/div_back.png'); background-repeat:no-repeat; background-position:right top">
+                       <center> <h2>Tenders</h2></center>
+                        <ul class="item-list">
+                            <li class="list-item">
+                            <ul><li><p class="MsoNoSpacing"><a href="https://iiitk.ac.in/images/pages/1616388884.pdf" title="" target="_blank"><font size="3" style="" face="georgia"></font></a></p><p class="MsoNoSpacing"><font face="georgia"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><font size="3" style=""><b style="background-color: rgb(255, 0, 102);"><font color="#ffffff">New</font></b> </font></span></font><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1617969274.pdf" title="" target="_blank">GeM Bid Document for "<b>Security Manpower Services on outsource Basis at IIITDM Kurnool</b>".</a></font></p></li><li><p class="MsoNoSpacing"><font face="georgia"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><font size="3" style=""><a href="https://iiitk.ac.in/images/pages/1616388884.pdf" title="" target="_blank">Tender for Supply and Installation of </a></font></span><font size="3" style=""><a href="javascript:nicTemp();">Microstrip based Antenna Trainer kit </a><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><a href="javascript:nicTemp();">at IIITDM Kurnool</a>.</span></font></font><span style="font-family: Georgia, serif; font-size: 12pt;"><o:p></o:p></span></p></li><li><p class="MsoNoSpacing"><font size="3" style="" face="georgia"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><a href="https://iiitk.ac.in/images/pages/1616388863.pdf" target="_blank" style="">Tender for Supply and Installation of BLDC Controller<span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> at IIITDM Kurnool.</span></a></span><o:p></o:p></font></p></li><li><p class="MsoNoSpacing"><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1616388872.pdf" title="" target="_blank" style="background-color: rgb(255, 255, 255);"><span style="background: rgb(255, 255, 255);">Tender for Supply and Installation of </span><font style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);">Microwave Test Bench</span></font><span style="background: rgb(255, 255, 255);"> at IIITDM Kurnool</span><span style="background: rgb(255, 255, 255);">.</span></a><br></font></p></li><li><p class="MsoNoSpacing"><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1616388852.pdf" title="" target="_blank" style="background-color: rgb(255, 255, 255);"><font style="background-color: rgb(255, 255, 255);">Tender for Supply and Installation of<span style="line-height: 107%;"> </span></font><span style="background-color: rgb(255, 255, 255); line-height: 107%;">Advanced Microstrip Trainer kit at IIITDM Kurnool.</span></a><br></font></p></li><li><span style="line-height: 107%;"><font size="3" style="" face="georgia"><a href="https://iiitk.ac.in/images/pages/1611745507.pdf" title="" target="_blank">Tender for Supply and
+Installation of Cut Section Models at IIITDM Kurnool.</a> </font></span><font face="georgia" size="3"><span style="background-color: rgb(255, 255, 255); outline-color: initial; outline-style: initial;"><b><a href="https://iiitk.ac.in/images/pages/1615879438.pdf" title="" target="_blank">"Tender Extension Details"</a></b></span></font><br></li><li><font size="3" face="georgia"><a href="https://iiitk.ac.in/images/pages/1611577697.pdf" title="" target="_blank">Tender for Supply and Installation of Gas Chromatography with Thermal Conductivity Detector. </a></font></li><li><font size="3" face="georgia"><span style="background-color: rgb(255, 255, 255);"><a href="http://iiitk.ac.in/images/pages/1606802840.pdf" title="" target="_blank">Tender for Supply and Installation of  Vertical Profile Projector.</a><br></span></font></li><li><font size="3" face="georgia"><span style="background-color: rgb(255, 255, 255);"><a href="http://iiitk.ac.in/images/pages/1606802829.pdf" title="" target="_blank">Tender for Supply and Installation of  Inverted Optical Microscope.</a> "<b><a href="https://iiitk.ac.in/images/pages/1612353986.pdf" title="" target="_blank">Cancellation of Tender</a></b>"<br></span></font></li><li><font size="3" face="georgia"><span style="background-color: rgb(255, 255, 255);"><a href="http://iiitk.ac.in/images/pages/1606802819.pdf" title="" target="_blank">Tender for Supply and Installation of  Auto Collimator.</a><br></span></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1606802810.pdf" title="" target="_blank"><span style="background-color: rgb(255, 255, 255);">Tender for Supply and Installation of</span> Comparators.</a></font><br></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1606460923.pdf" title="" target="_blank">Tender for Supply of Stationary Items.</a> </font> <span style="font-weight: 700; font-family: georgia; font-size: medium;"><span style="outline-color: initial; outline-style: initial;"><a href="http://iiitk.ac.in/images/pages/1608028147.pdf" title="" target="_blank">"Tender Extension Details"</a></span></span></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1605158001.pdf" title="" target="_blank">Tender for Supply and Installation of Gas Chromatography with Thermal Conductivity Detector.</a> </font><font face="georgia"><b style=""><a href="https://iiitk.ac.in/images/pages/1611230058.pdf" title="" target="_blank" style=""><font size="4">"</font><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: 107%;"><span style="outline: 0px;"><font color="#000066" style="" size="3">Cancellation of Tender</font></span><span style="font-size: large; outline-color: initial; outline-style: initial;">"</span></span></a></b></font><p class="MsoNormal"><span style="font-family:
+"Times New Roman",serif"><o:p></o:p></span></p></li><li><a href="http://iiitk.ac.in/images/pages/1602592004.pdf" title="" target="_blank" style="font-family: georgia; font-size: medium; background-color: rgb(255, 255, 255);">Tender for Supply and Fixing of Steel Cots.</a><br></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1602591992.pdf" title="" target="_blank">Tender for Supply and Installation of Reading Tables.</a><br></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1602591972.pdf" title="" target="_blank">Tender for Supply and Installation of Reading Chairs.</a></font></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1600688997.pdf" title="" target="_blank">Tender for Supply and Installation of Equipment's for Institute Fitness Centre.</a>  <b>"</b></font><font face="georgia" size="3"><b><a href="http://iiitk.ac.in/images/pages/1601880110.pdf" title="" target="_blank">Corrigendum</a>" </b></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1600165782.pdf" title="" target="_blank">Invitation of Quotations through LPC for Supply and Installation of ZC702 FPGA Development Board. </a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1600165923.pdf" title="" target="_blank">Invitation of Quotations through LPC for Supply and Installation of Analog Discovery Kit with PMODs. </a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1600165960.pdf" title="" target="_blank">Invitation of Quotations through LPC for Supply and Installation of PSoC Evaluation Boards.</a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1598958477.pdf" title="" target="_blank">Tender for Supply Housekeeping Services on Outsourcing Basis.</a></font></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1597758005.pdf" title="" target="_blank">Tender for Supply and Installation of Audio and Video Conferencing System</a>      <b><a href="http://iiitk.ac.in/images/pages/1599766872.pdf" title="" target="_blank">"Tender Extension Details".</a> "</b></font><b style="background-color: rgb(255, 255, 255); outline: 0px; font-family: georgia; font-size: medium;"><a href="http://iiitk.ac.in/images/pages/1604919341.pdf" title="" target="_blank" style="background-color: rgb(255, 255, 255); outline: 0px; font-family: georgia; font-size: medium;">Cancellation of Tender</a>"</b></li><li><font size="3" face="georgia"><a href="http://iiitk.ac.in/images/pages/1604919341.pdf" title="" target="_blank" style="outline: 0px;"> </a></font><a href="http://iiitk.ac.in/images/pages/1597757981.pdf" title="" target="_blank" style="font-family: georgia; font-size: medium; background-color: rgb(255, 255, 255);">Invitation of Quotations through LPC for Supply and Installation of Electrodes for Instrumentation Lab</a><span style="font-family: georgia; font-size: medium;">    </span><a href="http://iiitk.ac.in/images/pages/1599767015.pdf" title="" target="_blank" style="font-family: georgia; font-size: medium; background-color: rgb(255, 255, 255);"> </a><a href="http://iiitk.ac.in/images/pages/1601017946.pdf" title="" target="_blank" style="font-family: georgia; font-size: medium; background-color: rgb(255, 255, 255);"><b>"Tender Extension Details"</b>.</a></li><li><font face="georgia" size="3"><a href="http://iiitk.ac.in/images/pages/1595600642.pdf" title="" target="_blank">Tender for Vendor Empanelment for the Supply of Books and Other Documents.</a></font></li></ul>                            </li>
+                        </ul>                     
+                         <!-- <a href="https://notices/">View all notices <i class="fa fa-external-link"></i></a> -->
+                    </div>
+                    
+                </div>
+
+                
+            </div>
+        </div>
+
+<footer style="padding:0; border-top:0px !important;margin-top:10px;">
+<style>
+            .social-media-buttons1 li { display:inline !important; margin-right:10px; }
+            .social-media-buttons1 .facebook { background:#3b5998; color:#fff; }
+            .social-media-buttons1 .twitter { background:#00aced; color:#fff;}
+            .social-media-buttons1 .youtube {background:#b00; color:#fff; }
+            .social-media-buttons1 li .fa { color:#fff; }
+            
+</style>
+    <div class="row" style="background:#002c46">
+        <div class="col-md-2">
+            <h3 style='text-transform:none; color:#fff;'>Useful Links</h3>
+            <ul>
+                <li><a href="">&raquo; Privacy Policy</a></li>
+                <li><a href="">&raquo; Terms & Conditions</a></li>
+                <li><a href="">&raquo; Contact Us</a></li>
+                <li><a href="">&raquo; About Us</a></li>
+                <li><a href="">&raquo; Gallery</a></li>
+                <li><a href="">&raquo; Director</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3">
+            <h3 style='text-transform:none; color:#fff;'>Follow us on</h3>
+            
+            <ul class="social-media-buttons1">
+                <li class="facebook" title="Official Facebook page of IIIT-K">
+                    <a target="_blank"  href="https://www.facebook.com/Iiitdm-Kurnool-211133533006549/">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
+                <li class="twitter" title="Official Twitter page of IIIT-K">
+                    <a target="_blank" href="https://twitter.com/iiitdmkurnool">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </li>
+                <li class="youtube" title="Official Youtube Channel of IIIT-K">
+                    <a target="_blank" href="https://www.youtube.com/channel/UCXUm4xE1QB6jkBMRBnmtguw">
+                        <i class="fa fa-youtube-play"></i>
+                    </a>
+                </li> 
+            </ul>
+        </div>
+        <div class="col-md-3">
+           
+          <h3 style='text-transform:none; color:#fff;'>Address</h3>
+            <p class="address" style='line-height:20px;'>Jagannathagattu Hill,<br> Kurnool- 518 007,<br> Andhra Pradesh, <br>India.
+            <br><span>Phone:</span> +91 - 8518 289114
+            <br><span>Fax:</span> +91 - 8518 289127
+            <br><span>Email:</span> office@iiitk.ac.in
+            <br><span>Work Hours:</span> 9.00 AM to 5.45 PM</p> 
+        </div>
+        <div class="col-md-4">
+            <h3 style='text-transform:none; color:#fff;'>Location</h3>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1919.8989124398338!2d78.03530925872192!3d15.761831000000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb5dc3bfcf99645%3A0x52358ddcfb659cb9!2sIIITDM+Kurnool!5e0!3m2!1sen!2sin!4v1565175104868!5m2!1sen!2sin" width="90%" height="230px" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="Copyright" style='font-size:12px; background:#007294;'>
+        Copyright &copy; 2019,
+        Indian Institute of Information Technology, Design and Manufacturing, Kurnool.
+        All rights reserved
+        <p class="designed">Developed by <a href="http://karoms.com" target="_blank">KAROMS</a></p>
+    </div>
+    <!-- <div>
+        <a href="privacy-policy">Privacy policy</a> |
+        <a href="disclosures">Disclosure</a> |
+        <a href="naac-report">NAAC Report</a> |
+        <a href="aicte-report">AICTE</a> |
+        <a href="nirf-report">NIRF Report</a> |
+        <a href="contact">Contact Us</a>
+    </div> -->
+    <div>
+<!--        If you have trouble finding any information here, you can visit our <a href="http://oldwww.iiit.ac.in/" rel="nofollow">old website</a>.-->
+    </div>
+</footer>
+
+<script src="https://iiitk.ac.in/js/vendor/jquery.min.js"></script>
+    <script src="https://iiitk.ac.in/js/navbar.js"></script>
+    <script src="https://iiitk.ac.in/js/functions.js"></script>
+<script type="text/javascript" src="https://iiitk.ac.in/js/paginathing.js"></script>   
+ <script src="https://iiitk.ac.in/js/owl.carousel.min.js"></script>
+    <script>
+        $(function() {
+            var carousel = $("#carousel").owlCarousel({
+                singleItem: true,
+                slideSpeed : 300,
+                paginationSpeed : 600,
+                autoPlay: 4000,
+                stopOnHover: true,
+                navigation: true,
+                navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+                mouseDrag: false,
+                pagination: false,
+                rewindNav: true,
+                afterMove: function() {
+                    $('.carousel-btn td.active').removeClass('active');
+                    $('.carousel-btn td').eq(this.currentItem).addClass('active');
+                }
+            });
+            $('.carousel-btn a').click(function(e) {
+                e.preventDefault();
+                var n = $(this).closest('td').data('position');
+                carousel.data('owlCarousel').goTo(n);
+            });
+        });
+    </script>
+
+</body>
+</html><script>
+$(document).ready(function(){
+    
+    $('.list-item ul').paginathing({
+      perPage: 5,
+    //   limitPagination: 9,
+    //   containerClass: 'panel-footer',
+      pageNumbers: true
+    })
+});
+</script>
